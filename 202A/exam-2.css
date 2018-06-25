@@ -1,0 +1,23 @@
+@charset "utf-8";
+.Yellow {
+	width: 200px;
+	height: 100px;
+	background-color: #f08424;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+}
+.Green {
+	width: 150px;
+	background-color: #178205;
+	float: left;
+}
+.Blue {
+	background-color: #5893cf;
+	overflow: hidden;
+}
+.content >div{
+      border: 1px solid #000;
+
+}
